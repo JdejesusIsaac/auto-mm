@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auto-mm/static/css/main.dd57a326.css",
+    "main.js": "/auto-mm/static/js/main.f2c42069.js",
+    "index.html": "/auto-mm/index.html",
+    "main.dd57a326.css.map": "/auto-mm/static/css/main.dd57a326.css.map",
+    "main.f2c42069.js.map": "/auto-mm/static/js/main.f2c42069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd57a326.css",
+    "static/js/main.f2c42069.js"
+  ]
+}
